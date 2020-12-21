@@ -1,0 +1,89 @@
+/* FONTS IMPORTS
+---------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+// ----- COLORS -----
+// Main Colors - Used for coloring elements, buttons, outlines and backgrounds
+$colorA : #007bff;
+$colorB : #03172c;
+$colorC: #404447;
+$colorD: #674a2a;
+
+
+// ----- FONTS -----
+$HeadingA: 'Montserrat',
+sans-serif;
+$HeadingB: 'Open Sans',
+sans-serif;
+$paragraph: 'Open Sans',
+sans-serif;
+
+
+// ----- ANIMATIONS / TRANSITION PRESET -----
+$standardOut : all 350ms ease-out;
+$standardIn : all 350ms ease-in;
+$fastOut : all 200ms ease-out;
+$fastIn : all 200ms ease-in;
+$slowOut : all 500ms ease-out;
+$slowIn : all 500ms ease-out;
+
+
+/* TYPOGRAPHY
+---------------------------------------------- */
+body {
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 32px;
+        font-weight: 800;
+        color: $colorA;
+        margin: 0;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    h1.header-heading {
+        color: #111111;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 15px 0 auto 0;
+    }
+
+    h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 28px;
+        color: $colorA;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    h4{
+        font-family: 'Lato', sans-serif;
+    }
+
+    p {
+        font-family: 'Lato', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
+
+.page-id-86 {
+    h1 {
+        color: #111111;
+        margin-bottom: 35px;
+    }
+
+    h4 {
+        color: #111111;
+        font-size: 22px;
+    }
+}

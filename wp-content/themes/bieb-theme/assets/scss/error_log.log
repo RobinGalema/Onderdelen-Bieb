@@ -1,0 +1,22 @@
+10/19/20 12:29:44: /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+10/19/20 1:29:06: main.scss - unexpected }: failed at `.faq-answer{` /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/themes/bieb-theme/assets/scss/main.scss on line 58
+11/02/20 8:39:47: main.scss - parse error: failed at `font-size: ;` /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/themes/bieb-theme/assets/scss/main.scss on line 22
+11/04/20 3:19:25: main.scss - parse error: failed at `transition: $transition` /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/themes/bieb-theme/assets/scss/main.scss on line 373
+11/04/20 3:19:35: main.scss - parse error: failed at `transition: $transition` /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/themes/bieb-theme/assets/scss/main.scss on line 374
+11/09/20 3:34:13: main.scss - Undefined variable $secondHeading: line: 81
+12/07/20 3:18:48: main.scss - Undefined variable $mainHeading: line: 58
+12/07/20 3:18:48: test_page.scss - Undefined variable $mainHeading: line: 58
+12/07/20 3:18:48: components.scss - Undefined variable $mainHeading: line: 58
+12/07/20 3:20:48: main.scss - Undefined variable $mainColor: line: 297
+12/07/20 3:20:48: test_page.scss - Undefined variable $mainColor: line: 297
+12/07/20 3:20:48: components.scss - Undefined variable $mainColor: line: 297
+12/07/20 3:22:48: test_page.scss - Undefined variable $mainDark: line: 37
+12/07/20 3:22:48: components.scss - Undefined variable $accentcolor: line: 6
+12/07/20 3:24:48: components.scss - expecting color: line: 153
+12/07/20 3:30:48: main.scss - Undefined variable $colorC: line: 5
+12/07/20 3:30:48: test_page.scss - Undefined variable $colorC: line: 5
+12/07/20 3:30:48: components.scss - Undefined variable $colorC: line: 5
+12/07/20 3:32:48: main.scss - Undefined variable $colorC: line: 5
+12/07/20 3:32:48: test_page.scss - Undefined variable $colorC: line: 5
+12/07/20 3:32:48: components.scss - Undefined variable $colorC: line: 5
+12/09/20 1:38:37: main.scss - parse error: failed at `header` /var/www/vhosts/libelnet.eu/subdomains/demo/bieb/wp-content/themes/bieb-theme/assets/scss/main.scss on line 329
